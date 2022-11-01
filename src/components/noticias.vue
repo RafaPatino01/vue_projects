@@ -11,7 +11,7 @@ defineProps({
       <div class="row">
         <div class="col-6 p-5">
           <h2> {{title}} </h2>
-          <img src="src/assets/news.png" class="w-100 mt-3" alt="">
+          <img src="/src/assets/news.png" class="w-100 mt-3" alt="">
         </div>
 
         <div class="col-6 p-5">

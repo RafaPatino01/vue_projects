@@ -11,7 +11,7 @@
       
     </div>
     <div class="col-6 pr-5">
-      <img src="src/assets/hexagonos.png" alt="hexagonos" class="w-100">
+      <img src="/src/assets/hexagonos.png" alt="hexagonos" class="w-100">
     </div>
   </div>
 </template>
